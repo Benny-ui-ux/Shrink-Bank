@@ -6,5 +6,5 @@ Once logged in, you can make your way to the inventory and view the role-based C
 
 You can also see which items will be going out of date soon, or are already out of date. Items that are expired appear red, and items nearing expiration are shown in yellow. 
 
-The main point of this software is for both the stocker in charge of checking dates as well as management in ensuring it is getting done correctly. The button 'click here to confirm item is in date' creates a log. This log shows the user who performed the check, and at what date/time they checked it.
+The main point of this software is to ensure both the stockers and managers are getting their jobs done correctly and efficiently. The button 'click here to confirm item is in date' creates a log. This log shows the user who performed the check, and at what date/time they checked it.
 
