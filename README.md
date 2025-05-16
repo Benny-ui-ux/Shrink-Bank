@@ -1,6 +1,6 @@
 This is my final project for CIDM 3312. It is a piece of software designed for departments to manage inventory.
 
-The first step is to make an account. This is done using ASP.NET Core's middleware library for Authentication and Authorization. When making an account, enter your name, password and choose a department. THe daprtment you choose is the items you will be allowed to modify. 
+The first step is to make an account. This is done using ASP.NET Core's middleware library for Authentication and Authorization. When making an account, enter your name, password and choose a department. The department you choose determines the items you will be allowed to modify. 
 
 Once logged in, you can make your way to the inventory and view the role-based CRUD features. For example, if you chose the frozen department, you can modify the frozen items. 
 
